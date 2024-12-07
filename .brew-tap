@@ -1,0 +1,5 @@
+formula=sidecar-launcher
+description=A commandline tool to connect to a Sidecar capable device.
+homepage=https://github.com/Ocasio-J/SidecarLauncher
+url=https://github.com/Ocasio-J/SidecarLauncher/releases/download/1.2/SidecarLauncher.zip
+license=unknown
